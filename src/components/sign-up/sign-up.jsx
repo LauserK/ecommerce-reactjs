@@ -99,7 +99,7 @@ class SignUp extends Component {
             required
           />
           <CustomButton type="submit" onClick={this.handleSubmit}>
-            Submit
+            Sign up
           </CustomButton>
         </form>
       </div>
